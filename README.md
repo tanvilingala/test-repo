@@ -1,5 +1,9 @@
-# test-repo
-This is a test repo for Elite 101 2021.
+# Introduction
 
+This is a repository created by *Firstname*
 
-This is only a list.
+## Usage
+
+Run this command to execute the application:
+
+`python filename.py`
